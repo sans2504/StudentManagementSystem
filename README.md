@@ -1,5 +1,4 @@
-# StudentManagementSystem
-A Java console application for managing student records
+
 # Student Management System
 
 A Java console application for managing student records with file-based storage.
